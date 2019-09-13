@@ -28,6 +28,17 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 
 - Just a Google Sheet + Google Form to begin with?
 
+## Questions for Google Form
+
+- Main location
+- Main time zone
+- Areas of expertise
+- Role (Product or Eng?)
+- Looking for
+- Ideas
+- Willing to commit x hours/week
+- ...
+
 ## Next steps
 
 - Schedule 30min Google Hangouts Video Call.
