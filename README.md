@@ -13,6 +13,10 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 ## Alternatives
 
 - https://findcollabs.com/
+- www.halfbakery.com
+- [Discord: TeamFinder{}](https://discord.gg/NkAEw6a)
+- [Discord: Developers](https://discord.gg/PJ5CShd)
+- [Discord: code::together](https://discord.gg/PXXZq3j)
 
 ### Comparison with Alternatives
 
