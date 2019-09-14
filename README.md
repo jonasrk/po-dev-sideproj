@@ -10,19 +10,7 @@ I imagine, there must also be some professional product owners out there, who wi
 
 Wouldn't it be awesome if these two groups of people had a place to meet online, jam a few ideas around and pair up to build something nice together?
 
-## Alternatives
-
-- https://findcollabs.com/
-- www.halfbakery.com
-- [Discord: TeamFinder{}](https://discord.gg/NkAEw6a)
-- [Discord: Developers](https://discord.gg/PJ5CShd)
-- [Discord: code::together](https://discord.gg/PXXZq3j)
-
-### Comparison with Alternatives
-
-[TBD]
-
-## Resources
+## *This project's resources*
 
 - [Reddit Thread](https://www.reddit.com/r/agile/comments/d2p1kk/a_place_for_side_project_product_owners_and/)
 - [Slack invite link](https://join.slack.com/t/po-dev-sideproj/shared_invite/enQtNzU4NzU2MzMyMjA4LTMwMjI4MDg4YjA5MjY0NTQxMjhkYmM2OTlhN2YzOGJiMWRmNWY3MjNjNGYxODcwZjQ3ZWU4YTRmM2Y2NWVjNzg)
@@ -56,3 +44,15 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 - https://www.reddit.com/r/agile
 - Facebook groups?
 - ...
+
+## Alternatives
+
+- https://findcollabs.com/
+- www.halfbakery.com
+- [Discord: TeamFinder{}](https://discord.gg/NkAEw6a)
+- [Discord: Developers](https://discord.gg/PJ5CShd)
+- [Discord: code::together](https://discord.gg/PXXZq3j)
+
+### Comparison with Alternatives
+
+[TBD]
