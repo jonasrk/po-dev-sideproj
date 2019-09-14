@@ -23,6 +23,8 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 - [Reddit Thread](https://www.reddit.com/r/agile/comments/d2p1kk/a_place_for_side_project_product_owners_and/)
 - [Slack invite link](https://join.slack.com/t/po-dev-sideproj/shared_invite/enQtNzU4NzU2MzMyMjA4LTMwMjI4MDg4YjA5MjY0NTQxMjhkYmM2OTlhN2YzOGJiMWRmNWY3MjNjNGYxODcwZjQ3ZWU4YTRmM2Y2NWVjNzg)
 - WhatsApp invite link -> ask in Slack.
+- [Google Form](https://forms.gle/BrPcy4w8xdM6oKu16)
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1Ns-4W5JXqAk0S_COr4WLv06SywVw2e5s3qqgkDLDJBY/edit?usp=sharing)
 
 ## Ideas
 
@@ -30,13 +32,15 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 
 ## Questions for Google Form
 
+- How to call you?
 - Main location
 - Main time zone
-- Areas of expertise
+- Selected skills
 - Role (Product or Eng?)
 - Looking for
 - Ideas
 - Willing to commit x hours/week
+- How to reach?
 - ...
 
 ## Next steps
