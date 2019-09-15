@@ -29,8 +29,11 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 - Main time zone
 - Selected skills
 - Role (Product or Eng?)
-- Looking for
-- Ideas
+- Looking for / Roles you need filled (UX, Designer, Programmer, PO etc)
+- Problem statement / idea description
+- Wireframes (links? Uploads?)
+- Industry the idea pertains to
+- Target platform(s) 
 - Willing to commit x hours/week
 - How to reach?
 - ...
