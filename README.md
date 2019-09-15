@@ -17,10 +17,13 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 - WhatsApp invite link -> ask in Slack.
 - [Google Form](https://forms.gle/BrPcy4w8xdM6oKu16)
 - [Google Sheet](https://docs.google.com/spreadsheets/d/1Ns-4W5JXqAk0S_COr4WLv06SywVw2e5s3qqgkDLDJBY/edit?usp=sharing)
+- [Trello board](https://trello.com/b/1mHKQTCX/po-dev-sideproj) (Invite can be obtained in Slack)
 
 ## Ideas
 
 - Just a Google Sheet + Google Form to begin with?
+- ...
+- [More ideas in Trello]
 
 ## Questions for Google Form
 
