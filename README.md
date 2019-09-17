@@ -18,6 +18,7 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 - [Google Form](https://forms.gle/BrPcy4w8xdM6oKu16)
 - [Google Sheet](https://docs.google.com/spreadsheets/d/1Ns-4W5JXqAk0S_COr4WLv06SywVw2e5s3qqgkDLDJBY/edit?usp=sharing)
 - [Trello board](https://trello.com/b/1mHKQTCX/po-dev-sideproj) (Invite can be obtained in Slack)
+- [Google site](https://sites.google.com/view/po-dev-sideproj)
 
 ## Ideas
 
@@ -43,19 +44,25 @@ Wouldn't it be awesome if these two groups of people had a place to meet online,
 
 ## Next steps
 
-- Schedule 30min Google Hangouts Video Call.
+- Finalize landing page
+- Coordinate marketing/outreach campaign
+- Execute marketing/outreach campaign
 
-## Where do product people hang out?
+## Where do product people hang out? (Highly relevant for marketing/outreach!)
 
 - https://www.reddit.com/r/agile
 - Facebook groups?
 - Product hunt?
-- https://news.ycombinator.com ?
 - Meetup.com ?
+- ...
+
+## Where do engineers hang out? (Highly relevant for marketing/outreach!)
+
+- https://news.ycombinator.com ?
 - Mailing lists ?
 - ...
 
-## Alternatives
+## Alternatives (Can also be leveraged for marketing/outreach!)
 
 - https://findcollabs.com/
 - www.halfbakery.com
